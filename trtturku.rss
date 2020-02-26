@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Öyküleriyle Türküler</title>
+    <link>http://radyo.trt.net.tr</link>
+    <language>en-tr</language>
+    <copyright>&#169; 2020 Fat Man</copyright>
+    <itunes:author>Me</itunes:author>
+    <description>TRT Radyo'nun kendi sitesinden sunduğu podcastler.</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Türkü Sever</itunes:name>
+      <itunes:email>fkucuk@me.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="http://radyo.trt.net.tr/Data/Arsiv/Galeri/c35fe04e-a064-4d94-a62b-2d83270e9b82.jpg"
+    />
+    <itunes:category text="Music">
+      <itunes:category text="Folk"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>07.01.2019 Öyküleriyle Türküler</itunes:title>
+      <description>
+          <![CDATA[07.01.2019 Öyküleriyle Türküler]]>
+        </content:encoded>
+      </description>
+      <enclosure 
+        length="21274000" 
+        type="audio/mpeg" 
+        url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3"
+      />
+      <guid>733a5ab0190f4762928c7a3ec5b39a96</guid>
+      <pubDate>Tue, 7 Jan 2020 01:15:00 GMT</pubDate>
+      <itunes:duration>1815</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
