@@ -1,0 +1,62 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<itunes:author>
+<![CDATA[ Fatih Küçük ]]>
+</itunes:author>
+<title>
+<![CDATA[ Türkü ]]>
+</title>
+<itunes:owner>
+<itunes:name>
+<![CDATA[ Fatih Küçük ]]>
+</itunes:name>
+<itunes:email>
+<![CDATA[ fkucuk@me.com ]]>
+</itunes:email>
+</itunes:owner>
+<link>
+https://www.ivoox.com/podcast-turku_sq_f1863199_1.html
+</link>
+<description>
+<![CDATA[
+TRT Türkü’de yay?nlanan &quot;Öyküleriyle Türküler&quot; program?n?n ses kay?tlar?
+]]>
+</description>
+<language>es-ES</language>
+<generator>iVoox</generator>
+<image>
+<url>
+https://static-2.ivoox.com/canales/5/2/0/0/7711582920025_XXL.jpg?ts=1582920075
+</url>
+<title>
+<![CDATA[ Türkü ]]>
+</title>
+<link>
+https://www.ivoox.com/podcast-turku_sq_f1863199_1.html
+</link>
+</image>
+<atom:link href="https://www.ivoox.com/en/enpodcast-turku_fg_f1863199_filtro_1.xml" rel="self" type="application/rss+xml"/>
+<itunes:image href="https://static-2.ivoox.com/canales/5/2/0/0/7711582920025_XXL.jpg?ts=1582920075"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:type>serial</itunes:type>
+<itunes:category text="Music"> </itunes:category>
+<item>
+<title>
+<![CDATA[ 17.02.2020 Öyküleriyle Türküler ]]>
+</title>
+<link>
+https://www.ivoox.com/en/17-02-2020-oykuleriyle-turkuler-audios-mp3_rf_48349475_1.html
+</link>
+<enclosure url="https://www.ivoox.com/en/17-02-2020-oykuleriyle-turkuler_mf_48349475_feed_1.mp3" type="audio/mpeg" length="21784512"/>
+<description>
+<![CDATA[
+17.02.2020 Öyküleriyle Türküler 17.02.2020 Öyküleriyle Türküler 17.02.2020 Öyküleriyle Türküler 17.02.2020 Öyküleriyle Türküler 17.02.2020 Öyküleriyle Türküler 17.02.2020 Öyküleriyle Türküler
+]]>
+</description>
+<pubDate>Fri, 28 Feb 2020 21:00:33 +0100</pubDate>
+<itunes:duration>30:15</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>https://www.ivoox.com/48349475</guid>
+</item>
+</channel>
+</rss>
