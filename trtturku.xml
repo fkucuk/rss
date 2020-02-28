@@ -23,17 +23,9 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programı.
 ]]>
 </description>
 <language>tr-TR</language>
-<image>
-<url>
-https://www.hobimtek.com/image/cache/catalog/Everton-RT-850-Vintage-Bluetootlu-Nostaljik-Radyo-Ahsap-Sarjli-1500x1500.jpg
-</url>
-<title>
-<![CDATA[ Türkü ]]>
-</title>
-<link>
-https://www.ivoox.com/podcast-turku_sq_f1863199_1.html
-</link>
-</image>
+<itunes:image
+      href="https://www.hobimtek.com/image/cache/catalog/Everton-RT-850-Vintage-Bluetootlu-Nostaljik-Radyo-Ahsap-Sarjli-1500x1500.jpg"
+    />
 <atom:link href="https://www.ivoox.com/en/enpodcast-turku_fg_f1863199_filtro_1.xml" rel="self" type="application/rss+xml"/>
 <itunes:image href="https://static-2.ivoox.com/canales/5/2/0/0/7711582920025_XXL.jpg?ts=1582920075"/>
 <itunes:explicit>no</itunes:explicit>
