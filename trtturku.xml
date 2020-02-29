@@ -29,22 +29,7 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programı.
 <itunes:explicit>no</itunes:explicit>
 <itunes:type>serial</itunes:type>
 <itunes:category text="Music"> </itunes:category>
-<item>
-<title>
-<![CDATA[ 7.01.2019 Öyküleriyle Türküler ]]>
-</title>
-<link>
-http://radyo.trt.net.tr/podCast.aspx?OID=e0aed9c2-ee20-4537-a45f-d0507d844b46&OIDIslem=fbf6736b-f86f-4855-b709-1b8ffaa1dccb
-</link>
-<enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3" type="audio/mpeg" length="21784512 "/>
-<description>
-<![CDATA[İlk program]]>
-</description>
-<pubDate>Mon, 7 Jan 2019 12:00:00 +0300</pubDate>
-<itunes:duration>30:15</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-<guid>4e69be33-875c-461d-bedd-bdaa1b5e388c</guid>
-</item>
+
       <item>
 <title>
 <![CDATA[ 10.02.2020 Öyküleriyle Türküler ]]>
