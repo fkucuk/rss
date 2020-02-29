@@ -26,8 +26,6 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programı.
 <itunes:image
       href="https://www.hobimtek.com/image/cache/catalog/Everton-RT-850-Vintage-Bluetootlu-Nostaljik-Radyo-Ahsap-Sarjli-1500x1500.jpg"
     />
-<atom:link href="https://www.ivoox.com/en/enpodcast-turku_fg_f1863199_filtro_1.xml" rel="self" type="application/rss+xml"/>
-<itunes:image href="https://static-2.ivoox.com/canales/5/2/0/0/7711582920025_XXL.jpg?ts=1582920075"/>
 <itunes:explicit>no</itunes:explicit>
 <itunes:type>serial</itunes:type>
 <itunes:category text="Music"> </itunes:category>
@@ -40,12 +38,12 @@ http://radyo.trt.net.tr/podCast.aspx?OID=e0aed9c2-ee20-4537-a45f-d0507d844b46&OI
 </link>
 <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3" type="audio/mpeg" length="21784512 "/>
 <description>
-<![CDATA[]]>
+<![CDATA[İlk program]]>
 </description>
-<pubDate>Mon, 7 Jan 2019 01:00:00 +0300</pubDate>
+<pubDate>Mon, 7 Jan 2019 12:00:00 +0300</pubDate>
 <itunes:duration>30:15</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
-<guid>4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3</guid>
+<guid>4e69be33-875c-461d-bedd-bdaa1b5e388c</guid>
 </item>
 </channel>
 </rss>
