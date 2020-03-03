@@ -58,5 +58,18 @@ https://www.ivoox.com/en/10-02-2020-oykuleriyle-turkuler-audios-mp3_rf_48349993_
 <itunes:episodeType>full</itunes:episodeType>
 <guid>4e69be33-875c-461d-bedd-bdaa1b5e388c</guid>
 </item>
+<item>
+<title>
+<![CDATA[ Son Bölüm ]]>
+</title>
+<enclosure url="https://github.com/fkucuk/rss/raw/master/trtradyo/trtturku/oykuleriyleturkuler/113bc7a5-fe3b-4645-8be1-c2dc12834cc0.mp3" type="audio/mpeg" length="21784512"/>
+<description>
+<![CDATA[]]>
+</description>
+<pubDate>Mon, 2 Mar 2020 12:00:00 +0300</pubDate>
+<itunes:duration>30:15</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid>113bc7a5-fe3b-4645-8be1-c2dc12834cc0</guid>
+</item>
 </channel>
 </rss>
