@@ -30,7 +30,7 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programının kayıtları.
         <itunes:category text="Music"></itunes:category>
         <item>
             <title>
-                <![CDATA[ 1. Bölüm ]]>
+                <![CDATA[ 1. Bölüm: Yaşar Özürkü ile söyleşi / Hem Okudum Hem de Yazdım - Çorum - Şahin Gültekin]]>
             </title>
             <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3" type="audio/mpeg" length="21784512"/>
             <description>
@@ -43,7 +43,7 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programının kayıtları.
         </item>
         <item>
             <title>
-                <![CDATA[ 2. Bölüm ]]>
+                <![CDATA[ 2. Bölüm: Devrent Deresini Duman Bürüdü - Denizli - Hale Gür]]>
             </title>
             <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/e19f881a-76c8-4dd3-b53e-2c28639f5a98.mp3" type="audio/mpeg" length="21784512"/>
             <description>
@@ -53,6 +53,19 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programının kayıtları.
             <itunes:duration>30:15</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <guid>e19f881a-76c8-4dd3-b53e-2c28639f5a98</guid>
+        </item>
+		 <item>
+            <title>
+                <![CDATA[ 3. Bölüm: Ağgül Seni Camekanda Görmüşler - Sivas - Turhan Karabulut]]>
+            </title>
+            <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/b893671c-e918-4435-87a6-48afdc0b1260.mp3" type="audio/mpeg" length="21784512"/>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Mon, 21 Jan 2019 12:00:00 +0300</pubDate>
+            <itunes:duration>30:15</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid>b893671c-e918-4435-87a6-48afdc0b1260</guid>
         </item>
     </channel>
 </rss>
