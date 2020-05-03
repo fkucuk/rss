@@ -1,75 +1,58 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<itunes:author>
-<![CDATA[ TRT Radyo ]]>
-</itunes:author>
-<title>
-<![CDATA[ Öyküleriyle Türküler ]]>
-</title>
-<itunes:owner>
-<itunes:name>
-<![CDATA[ Fatih Küçük ]]>
-</itunes:name>
-<itunes:email>
-<![CDATA[ fkucuk@me.com ]]>
-</itunes:email>
-</itunes:owner>
-<link>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <itunes:author>
+            <![CDATA[ TRT Radyo ]]>
+        </itunes:author>
+        <title>
+            <![CDATA[ Öyküleriyle Türküler ]]>
+        </title>
+        <itunes:owner>
+            <itunes:name>
+                <![CDATA[ Fatih Küçük ]]>
+            </itunes:name>
+            <itunes:email>
+                <![CDATA[ fkucuk@me.com ]]>
+            </itunes:email>
+        </itunes:owner>
+        <link>
 https://raw.githubusercontent.com/fkucuk/rss/master/trtturku.html
-</link>
-<description>
-<![CDATA[
+        </link>
+        <description>
+            <![CDATA[
 TRT Türkü’de yayınlanan Öyküleriyle Türküler programının kayıtları..
 ]]>
-</description>
-<language>tr-TR</language>
-<itunes:image href="https://static-2.ivoox.com/canales/7/8/5/8/4591582958587_XXL.jpg?ts=1582958648"/>
-<itunes:explicit>no</itunes:explicit>
-<itunes:type>serial</itunes:type>
-<itunes:category text="Music"> </itunes:category>
-<item>
-<title>
-<![CDATA[ 10.02.2020 Öyküleriyle Türküler ]]>
-</title>
-<link>
-https://www.ivoox.com/en/10-02-2020-oykuleriyle-turkuler-audios-mp3_rf_48349993_1.html
-</link>
-<enclosure url="https://www.ivoox.com/en/10-02-2020-oykuleriyle-turkuler_mf_48349993_feed_1.mp3" type="audio/mpeg" length="21784512"/>
-<description>
-<![CDATA[
-17.02.2020 Öyküleriyle Türküler17.02.2020 Öyküleriyle Türküler17.02.2020 Öyküleriyle Türküler17.02.2020 Öyküleriyle Türküler
-]]>
-</description>
-<pubDate>Fri, 28 Feb 2020 21:13:00 +0100</pubDate>
-<itunes:duration>30:15</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-<guid>https://www.ivoox.com/48349993</guid>
-</item>
-<item>
-<title>
-<![CDATA[ 1. Bölüm ]]>
-</title>
-<enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3" type="audio/mpeg" length="21784512"/>
-<description>
-<![CDATA[]]>
-</description>
-<pubDate>Mon, 7 Jan 2019 12:00:00 +0300</pubDate>
-<itunes:duration>30:15</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-<guid>4e69be33-875c-461d-bedd-bdaa1b5e388c</guid>
-</item>
-<item>
-<title>
-<![CDATA[ Son Bölüm ]]>
-</title>
-<enclosure url="https://github.com/fkucuk/rss/raw/master/trtradyo/trtturku/oykuleriyleturkuler/113bc7a5-fe3b-4645-8be1-c2dc12834cc0.mp3" type="audio/mpeg" length="21784512"/>
-<description>
-<![CDATA[]]>
-</description>
-<pubDate>Mon, 2 Mar 2020 12:00:00 +0300</pubDate>
-<itunes:duration>30:15</itunes:duration>
-<itunes:episodeType>full</itunes:episodeType>
-<guid>113bc7a5-fe3b-4645-8be1-c2dc12834cc0</guid>
-</item>
-</channel>
+        </description>
+        <language>tr-TR</language>
+        <itunes:image href="https://raw.githubusercontent.com/fkucuk/rss/master/Everton-RT-850-Vintage-Bluetootlu-Nostaljik-Radyo-Ahsap-Sarjli-1500x1500.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:type>serial</itunes:type>
+        <itunes:category text="Music"></itunes:category>
+        <item>
+            <title>
+                <![CDATA[ 1. Bölüm ]]>
+            </title>
+            <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/4e69be33-875c-461d-bedd-bdaa1b5e388c.mp3" type="audio/mpeg" length="21784512"/>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Mon, 7 Jan 2019 12:00:00 +0300</pubDate>
+            <itunes:duration>30:15</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid>4e69be33-875c-461d-bedd-bdaa1b5e388c</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 2. Bölüm ]]>
+            </title>
+            <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/e19f881a-76c8-4dd3-b53e-2c28639f5a98.mp3" type="audio/mpeg" length="21784512"/>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Mon, 14 Jan 2019 12:00:00 +0300</pubDate>
+            <itunes:duration>30:15</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid>e19f881a-76c8-4dd3-b53e-2c28639f5a98</guid>
+        </item>
+    </channel>
 </rss>
