@@ -67,5 +67,18 @@ TRT Türkü’de yayınlanan Öyküleriyle Türküler programının kayıtları.
             <itunes:episodeType>full</itunes:episodeType>
             <guid>b893671c-e918-4435-87a6-48afdc0b1260</guid>
         </item>
+		 <item>
+            <title>
+                <![CDATA[ 4. Bölüm: Karadır Kaşların Ferman Yazdırır - Eskişehir]]>
+            </title>
+            <enclosure url="http://radyo.trt.net.tr/Data/Arsiv/Galeri/2171c42d-376e-4d04-8a9f-68ffd19293c3.mp3" type="audio/mpeg" length="21439068"/>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Mon, 28 Jan 2019 12:00:00 +0300</pubDate>
+            <itunes:duration>29:46</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <guid>2171c42d-376e-4d04-8a9f-68ffd19293c3</guid>
+        </item>
     </channel>
 </rss>
